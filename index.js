@@ -13,7 +13,7 @@ client.on('ready', () => {
 });
 
 client.on('message', async message => {
-  if (message.content === '!addme') {
+  if (message.content === '!addme') { // When doing this command, The bot will notifies you when the user or you posted a new post in ig
     if (!users.includes(message.author.id)) {
       users.push(message.author.id);
       await message.reply('You have been added to the notification list!');
