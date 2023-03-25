@@ -31,7 +31,7 @@
 > SO STAY TUNED!
 
 # LICENSE
-> This repo is under `MIT` License, If curious what is it. Click the `LISENCE.
+> This repo is under [`MIT`](https://github.com/itzKashii/Insta/blob/main/LICENSE) License, If curious what is it. Click the `LICENSE`.
 
 
 # Help
