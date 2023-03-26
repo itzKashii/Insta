@@ -1,5 +1,5 @@
 <h1 align="center">Insta</h1>
-<h4 align="center">Insta is a simple instagram notifier discord bot that notifies you in DMS when you or the user posted a new post in instagram using discord.js/@.12.5.3 and instagram-private-api npm.</h4>
+<h4 align="center">Insta is a simple instagram notifier discord bot that notifies you in DMS when you or the user posted a new post in instagram using discord.js/@12.5.3 and instagram-private-api npm.</h4>
 
 # Installation
 >
@@ -21,7 +21,7 @@
 >
 > After putting some credentials in `config.json` go to **terminal** [if you're using replit and visual code studio]
 > and do `npm i` [installs all packages that are existed in `package.json`]
-> If manual, do `npm i disord.js/@.12.5.3 instagram-private-api npm`
+> If manual, do `npm i disord.js/@12.5.3 instagram-private-api npm`
 
 
 ## Add-on
