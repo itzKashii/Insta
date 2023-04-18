@@ -24,7 +24,7 @@ client.on('message', async message => {
 });
 
 async function getLatestPost() {
-  const user = await igClient.user.usernameinfo('itz.avekiell');
+  const user = await igClient.user.usernameinfo('THE USERNAME YOU WANT TO GET NOTIFIED');
   const feed = igClient.feed.user(user.pk);
   const posts = await feed.items();
   return posts[0];
